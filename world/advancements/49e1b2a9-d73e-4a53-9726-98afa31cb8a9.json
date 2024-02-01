@@ -1,0 +1,20 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2024-02-01 21:53:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-02-01 21:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2024-02-01 21:53:44 +0000"
+    },
+    "done": false
+  }
+}
