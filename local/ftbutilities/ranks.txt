@@ -6,15 +6,35 @@ power: 1
 example.permission: true
 example.other_permission: false
 example.permission_with_value: 0
+ftbutilities.chunkloader.max_chunks: 50
+ftbutilities.claims.max_chunks: 100
+
+[registered]
+power: 10
+ftbutilities.chat.name_format: <&b{name}&r>
+example.other_permission: true
+example.permission_with_value: 15
+ftbutilities.chunkloader.max_chunks: 100
+ftbutilities.claims.max_chunks: 150
 
 [vip]
 power: 20
-ftbutilities.chat.name_format: <&bVIP {name}&r>
-example.other_permission: true
-example.permission_with_value: 15
+ftbutilities.chat.name_format: <&bVIP - {name}&r>
+example.permission_with_value: 20
+ftbutilities.chunkloader.max_chunks: 100
+ftbutilities.claims.max_chunks: 200
+
+[CM]
+power: 80
+ftbutilities.chat.name_format: <&7{name}&r>
+example.permission_with_value: 25
+ftbutilities.chunkloader.max_chunks: 250
+ftbutilities.claims.max_chunks: 500
 
 [admin]
 default_op_rank: true
 power: 100
-ftbutilities.chat.name_format: <&2{name}&r>
+ftbutilities.chat.name_format: <&1{name}&r>
 example.permission_with_value: 100
+ftbutilities.chunkloader.max_chunks: 1000
+ftbutilities.claims.max_chunks: 2000
