@@ -1,8 +1,8 @@
 // For more info visit https://faq.ftb.world/books/ftb-utilities/page/ranks
 
 [player]
-default_player_rank: true
 power: 1
+default_player_rank: true
 example.permission: true
 example.other_permission: false
 example.permission_with_value: 0
@@ -24,7 +24,7 @@ example.permission_with_value: 20
 ftbutilities.chunkloader.max_chunks: 100
 ftbutilities.claims.max_chunks: 200
 
-[CM]
+[cm]
 power: 80
 ftbutilities.chat.name_format: <&7{name}&r>
 example.permission_with_value: 25
@@ -32,8 +32,8 @@ ftbutilities.chunkloader.max_chunks: 250
 ftbutilities.claims.max_chunks: 500
 
 [admin]
-default_op_rank: true
 power: 100
+default_op_rank: true
 ftbutilities.chat.name_format: <&1{name}&r>
 example.permission_with_value: 100
 ftbutilities.chunkloader.max_chunks: 1000
