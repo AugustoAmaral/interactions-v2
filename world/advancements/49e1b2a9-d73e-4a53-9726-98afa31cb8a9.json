@@ -1,7 +1,31 @@
 {
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-02-02 11:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-02-02 11:43:20 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2024-02-01 21:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-02-02 11:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-02-02 11:43:20 +0000"
     },
     "done": true
   },
@@ -11,10 +35,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-02-02 11:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-02-02 11:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "plains": "2024-02-01 21:53:44 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-02-02 11:43:20 +0000"
+    },
+    "done": true
   }
 }
