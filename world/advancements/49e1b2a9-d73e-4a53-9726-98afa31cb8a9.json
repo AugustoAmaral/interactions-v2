@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-04 13:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-03 22:34:12 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-02-03 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-04 13:01:43 +0000"
     },
     "done": true
   },
@@ -227,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-04 13:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-02-02 12:55:05 +0000"
@@ -281,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-04 13:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-02-02 17:13:42 +0000"
@@ -291,6 +315,7 @@
     "criteria": {
       "cooked_mutton": "2024-02-04 11:56:21 +0000",
       "apple": "2024-02-02 12:57:12 +0000",
+      "potato": "2024-02-04 12:58:11 +0000",
       "cooked_rabbit": "2024-02-04 11:56:22 +0000",
       "cooked_chicken": "2024-02-04 11:56:17 +0000"
     },
@@ -370,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-04 13:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-02-03 10:44:36 +0000"
@@ -400,6 +431,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "spider": "2024-02-04 12:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-02-04 13:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2024-02-03 00:46:34 +0000"
@@ -409,6 +452,13 @@
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2024-02-03 22:49:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-02-04 13:01:43 +0000",
+      "iron_leggings": "2024-02-04 13:01:43 +0000"
     },
     "done": true
   },
@@ -442,6 +492,7 @@
       "plains": "2024-02-01 21:53:44 +0000",
       "ice_mountains": "2024-02-04 11:57:03 +0000",
       "redwood_taiga_hills": "2024-02-04 12:02:56 +0000",
+      "ocean": "2024-02-04 13:04:57 +0000",
       "roofed_forest": "2024-02-04 12:05:01 +0000",
       "river": "2024-02-04 11:58:45 +0000"
     },
@@ -531,6 +582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-02-04 12:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-02-02 12:55:34 +0000"
@@ -558,6 +615,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-03 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-02-04 12:38:42 +0000"
     },
     "done": true
   },
@@ -633,6 +696,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2024-02-04 12:55:51 +0000",
+      "spider": "2024-02-04 12:55:34 +0000"
+    },
+    "done": false
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2024-02-02 13:01:54 +0000"
@@ -672,6 +742,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-02-02 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-02-04 12:55:28 +0000"
     },
     "done": true
   },
