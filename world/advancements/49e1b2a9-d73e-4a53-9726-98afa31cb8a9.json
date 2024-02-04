@@ -612,6 +612,7 @@
       "savanna_rock": "2024-02-04 15:15:05 +0000",
       "ice_mountains": "2024-02-04 11:57:03 +0000",
       "taiga": "2024-02-04 20:40:43 +0000",
+      "redwood_taiga": "2024-02-04 22:02:13 +0000",
       "redwood_taiga_hills": "2024-02-04 12:02:56 +0000",
       "ocean": "2024-02-04 13:04:57 +0000",
       "roofed_forest": "2024-02-04 12:05:01 +0000",
@@ -968,6 +969,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-02-02 12:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2024-02-04 22:04:11 +0000"
     },
     "done": true
   },
