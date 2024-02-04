@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-02-04 20:56:53 +0000"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2024-02-01 21:53:44 +0000"
@@ -314,6 +320,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-02-04 19:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-02-04 20:56:53 +0000"
     },
     "done": true
   },
@@ -599,6 +611,7 @@
       "jungle_edge": "2024-02-04 15:19:43 +0000",
       "savanna_rock": "2024-02-04 15:15:05 +0000",
       "ice_mountains": "2024-02-04 11:57:03 +0000",
+      "taiga": "2024-02-04 20:40:43 +0000",
       "redwood_taiga_hills": "2024-02-04 12:02:56 +0000",
       "ocean": "2024-02-04 13:04:57 +0000",
       "roofed_forest": "2024-02-04 12:05:01 +0000",
