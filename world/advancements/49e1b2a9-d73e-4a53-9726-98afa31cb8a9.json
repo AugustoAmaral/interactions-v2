@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2024-02-04 15:18:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-02-02 12:07:33 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2024-02-04 11:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-02-04 15:11:40 +0000"
     },
     "done": true
   },
@@ -549,13 +561,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "frozen_river": "2024-02-04 11:56:39 +0000",
+      "forest": "2024-02-04 15:18:12 +0000",
+      "birch_forest": "2024-02-04 15:16:21 +0000",
       "mesa": "2024-02-04 13:21:24 +0000",
       "plains": "2024-02-01 21:53:44 +0000",
+      "jungle_edge": "2024-02-04 15:19:43 +0000",
+      "savanna_rock": "2024-02-04 15:15:05 +0000",
       "ice_mountains": "2024-02-04 11:57:03 +0000",
       "redwood_taiga_hills": "2024-02-04 12:02:56 +0000",
       "ocean": "2024-02-04 13:04:57 +0000",
       "roofed_forest": "2024-02-04 12:05:01 +0000",
       "river": "2024-02-04 11:58:45 +0000",
+      "jungle": "2024-02-04 15:20:07 +0000",
       "desert": "2024-02-04 13:21:14 +0000"
     },
     "done": false
