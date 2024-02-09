@@ -619,6 +619,7 @@
       "taiga_cold_hills": "2024-02-08 07:48:06 +0000",
       "forest": "2024-02-04 15:18:12 +0000",
       "birch_forest": "2024-02-04 15:16:21 +0000",
+      "swampland": "2024-02-09 07:56:21 +0000",
       "beaches": "2024-02-04 18:58:34 +0000",
       "mesa": "2024-02-04 13:21:24 +0000",
       "plains": "2024-02-01 21:53:44 +0000",
@@ -629,6 +630,7 @@
       "redwood_taiga": "2024-02-04 22:02:13 +0000",
       "redwood_taiga_hills": "2024-02-04 12:02:56 +0000",
       "taiga_hills": "2024-02-08 07:41:04 +0000",
+      "birch_forest_hills": "2024-02-09 07:55:38 +0000",
       "taiga_cold": "2024-02-08 21:42:18 +0000",
       "ocean": "2024-02-04 13:04:57 +0000",
       "roofed_forest": "2024-02-04 12:05:01 +0000",
@@ -704,9 +706,21 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit2": "2024-02-09 07:51:02 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2024-02-04 19:28:15 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2024-02-09 07:51:02 +0000"
     },
     "done": true
   },
