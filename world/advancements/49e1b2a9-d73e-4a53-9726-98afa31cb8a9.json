@@ -478,6 +478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-02-10 12:32:36 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2024-02-02 12:53:05 +0000",
@@ -516,9 +522,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2024-02-10 12:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-02-03 10:44:36 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/2_fluid_conduit_pressurized": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_pressurized": "2024-02-10 11:33:32 +0000"
     },
     "done": true
   },
@@ -706,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-02-10 12:32:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-02-02 13:06:26 +0000"
@@ -714,7 +738,8 @@
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
-      "inv_changed-enderio:liquid_conduit2": "2024-02-09 07:51:02 +0000"
+      "inv_changed-enderio:liquid_conduit2": "2024-02-09 07:51:02 +0000",
+      "inv_changed-enderio:liquid_conduit_pressurized2": "2024-02-10 11:33:32 +0000"
     },
     "done": false
   },
@@ -924,6 +949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-02-10 12:32:49 +0000"
+    },
+    "done": true
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2024-02-02 13:01:54 +0000"
@@ -933,6 +964,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2024-02-03 00:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-02-10 12:32:36 +0000"
     },
     "done": true
   },
@@ -1017,6 +1054,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-02-04 13:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-02-10 12:40:56 +0000"
     },
     "done": true
   },
