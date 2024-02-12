@@ -743,6 +743,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-02-12 19:42:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/stymphalian_arrow": {
     "criteria": {
       "bestiary": "2024-02-04 19:28:15 +0000"
@@ -946,6 +952,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-02-04 13:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-02-12 19:42:10 +0000"
     },
     "done": true
   },
