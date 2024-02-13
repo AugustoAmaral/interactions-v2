@@ -478,6 +478,12 @@
     },
     "done": true
   },
+  "wizardry:advancement_devildust": {
+    "criteria": {
+      "craft_devil_dust": "2024-02-13 00:21:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-02-10 12:32:36 +0000"
