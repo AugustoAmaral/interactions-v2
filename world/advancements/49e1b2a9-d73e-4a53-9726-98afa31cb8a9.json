@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-02-14 23:20:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-03 22:34:12 +0000"
@@ -851,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-02-14 23:19:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2024-02-02 12:07:28 +0000"
@@ -983,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2024-02-14 23:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-02-10 12:32:36 +0000"
@@ -1016,6 +1034,12 @@
   "enderio:gears/g2_stone_gear": {
     "criteria": {
       "inv_changed-enderio:item_material": "2024-02-03 10:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-02-14 23:14:57 +0000"
     },
     "done": true
   },
