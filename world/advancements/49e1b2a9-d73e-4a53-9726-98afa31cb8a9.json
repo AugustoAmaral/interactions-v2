@@ -1115,6 +1115,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/8_blue": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-02-15 08:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-02-03 23:02:23 +0000"
