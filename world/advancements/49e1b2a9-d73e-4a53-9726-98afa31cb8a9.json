@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/2_basic_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter": "2024-02-18 13:52:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-02-03 13:00:53 +0000"
@@ -1283,6 +1289,12 @@
       "has_stone": "2024-02-03 00:55:13 +0000"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter2": "2024-02-18 13:52:09 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
