@@ -651,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-02-18 15:45:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-02-03 22:34:12 +0000"
@@ -1112,6 +1118,7 @@
       "mesa": "2024-02-04 13:21:24 +0000",
       "plains": "2024-02-01 21:53:44 +0000",
       "jungle_edge": "2024-02-04 15:19:43 +0000",
+      "jungle_hills": "2024-02-18 16:20:14 +0000",
       "savanna_rock": "2024-02-04 15:15:05 +0000",
       "ice_mountains": "2024-02-04 11:57:03 +0000",
       "taiga": "2024-02-04 20:40:43 +0000",
