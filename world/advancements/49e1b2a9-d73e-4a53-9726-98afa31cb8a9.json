@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-02-21 17:57:05 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:start/1_binder_composite": {
     "criteria": {
       "inv_changed-enderio:binder_composite": "2024-02-13 01:37:02 +0000"
@@ -632,6 +638,7 @@
     "criteria": {
       "zombie": "2024-02-04 12:55:51 +0000",
       "cave_spider": "2024-02-04 19:41:42 +0000",
+      "witch": "2024-02-21 18:29:19 +0000",
       "spider": "2024-02-04 12:55:34 +0000"
     },
     "done": false
