@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-02-22 18:09:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-02-02 13:06:26 +0000"
@@ -543,6 +549,12 @@
       "inv_changed-enderio:item_conduit2": "2024-02-13 01:38:14 +0000"
     },
     "done": false
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2024-02-22 18:25:11 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
@@ -1185,6 +1197,7 @@
       "forest": "2024-02-04 15:18:12 +0000",
       "birch_forest": "2024-02-04 15:16:21 +0000",
       "swampland": "2024-02-09 07:56:21 +0000",
+      "deep_ocean": "2024-02-22 18:18:41 +0000",
       "beaches": "2024-02-04 18:58:34 +0000",
       "extreme_hills_with_trees": "2024-02-20 18:39:06 +0000",
       "mesa": "2024-02-04 13:21:24 +0000",
