@@ -500,6 +500,12 @@
     },
     "done": true
   },
+  "projecte:alchemical_bag": {
+    "criteria": {
+      "bag": "2024-02-22 19:16:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-02-03 22:34:12 +0000"
