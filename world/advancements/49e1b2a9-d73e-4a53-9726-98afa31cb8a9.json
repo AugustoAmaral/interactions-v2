@@ -865,6 +865,12 @@
     },
     "done": true
   },
+  "wizardry:advancement_manapool": {
+    "criteria": {
+      "manapool": "2024-02-22 00:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2024-02-02 12:20:49 +0000"
