@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-02-22 23:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-02-02 17:13:42 +0000"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-02-22 23:15:38 +0000"
+    },
+    "done": true
+  },
   "enderioconduits:start/1_binder_composite": {
     "criteria": {
       "inv_changed-enderio:binder_composite": "2024-02-13 01:37:02 +0000"
@@ -344,6 +356,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-02-04 13:20:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/dandelifeon_pickup": {
+    "criteria": {
+      "dandelifeon": "2024-02-22 23:06:01 +0000"
     },
     "done": true
   },
@@ -676,6 +694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-02-22 23:15:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-02-22 22:11:26 +0000"
@@ -696,6 +720,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "blaze": "2024-02-22 23:14:21 +0000",
       "zombie": "2024-02-04 12:55:51 +0000",
       "cave_spider": "2024-02-04 19:41:42 +0000",
       "witch": "2024-02-21 18:29:19 +0000",
@@ -706,6 +731,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-02-04 13:20:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-02-22 23:08:05 +0000"
     },
     "done": true
   },
@@ -871,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-02-22 23:15:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-02-03 00:46:34 +0000"
@@ -934,6 +971,12 @@
   "wizardry:advancement_manapool": {
     "criteria": {
       "manapool": "2024-02-22 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-02-22 23:09:06 +0000"
     },
     "done": true
   },
@@ -1228,6 +1271,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-02-21 16:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-02-22 23:15:01 +0000"
     },
     "done": true
   },
