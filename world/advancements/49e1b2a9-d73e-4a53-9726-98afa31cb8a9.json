@@ -619,7 +619,8 @@
     "criteria": {
       "inv_changed-enderio:liquid_conduit2": "2024-02-09 07:51:02 +0000",
       "inv_changed-enderio:liquid_conduit_pressurized2": "2024-02-10 11:33:32 +0000",
-      "inv_changed-enderio:item_conduit2": "2024-02-13 01:38:14 +0000"
+      "inv_changed-enderio:item_conduit2": "2024-02-13 01:38:14 +0000",
+      "inv_changed-enderio:liquid_conduit_ender2": "2024-02-24 12:34:12 +0000"
     },
     "done": false
   },
@@ -1665,6 +1666,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2024-02-02 12:07:33 +0000"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2024-02-24 12:34:12 +0000"
     },
     "done": true
   }
