@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "astralsorcery:find_constellation": {
+    "criteria": {
+      "bright_constellation_discovered": "2024-03-01 08:23:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2024-02-04 20:56:53 +0000"
@@ -458,6 +464,12 @@
     },
     "done": true
   },
+  "astralsorcery:attune_self": {
+    "criteria": {
+      "attune_self_major": "2024-03-01 08:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2024-02-03 10:40:49 +0000"
@@ -694,6 +706,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-02-04 13:20:35 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:perk_level_small": {
+    "criteria": {
+      "gain_perk_level_small": "2024-03-01 08:29:35 +0000"
     },
     "done": true
   },
