@@ -554,6 +554,12 @@
     },
     "done": true
   },
+  "astralsorcery:perk_level_medium": {
+    "criteria": {
+      "gain_perk_level_medium": "2024-03-02 13:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-02-04 13:01:43 +0000",
