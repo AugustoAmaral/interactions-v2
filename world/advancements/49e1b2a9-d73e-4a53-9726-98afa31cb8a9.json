@@ -1683,6 +1683,12 @@
     },
     "done": true
   },
+  "rftools:alltheitems": {
+    "criteria": {
+      "placed_storage": "2024-03-04 08:21:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-02-02 17:13:42 +0000"
