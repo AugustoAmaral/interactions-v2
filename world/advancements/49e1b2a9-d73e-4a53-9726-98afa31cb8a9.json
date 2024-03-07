@@ -609,6 +609,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-03-07 18:37:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-02-02 12:15:10 +0000"
@@ -853,7 +859,9 @@
       "cave_spider": "2024-02-04 19:41:42 +0000",
       "witch": "2024-02-21 18:29:19 +0000",
       "spider": "2024-02-04 12:55:34 +0000",
-      "creeper": "2024-02-23 00:16:42 +0000"
+      "ghast": "2024-03-07 18:37:16 +0000",
+      "creeper": "2024-02-23 00:16:42 +0000",
+      "enderman": "2024-03-07 18:40:17 +0000"
     },
     "done": false
   },
