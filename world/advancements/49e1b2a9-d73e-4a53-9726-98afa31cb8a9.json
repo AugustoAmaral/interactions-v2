@@ -1040,6 +1040,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2024-03-13 02:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-02-02 11:43:20 +0000"
