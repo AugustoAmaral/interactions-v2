@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "bhc:main/heart_amulet": {
+    "criteria": {
+      "heart_amulet_in_inventory": "2024-03-14 08:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-02-02 11:43:20 +0000"
@@ -563,6 +569,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-02-04 13:20:35 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/red_heart_canister": {
+    "criteria": {
+      "red_heart_canister_in_inventory": "2024-03-14 08:02:48 +0000"
     },
     "done": true
   },
