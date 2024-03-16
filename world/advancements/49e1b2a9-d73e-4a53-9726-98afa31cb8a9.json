@@ -562,7 +562,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "bred_sheep": "2024-02-13 00:26:30 +0000"
+      "bred_sheep": "2024-02-13 00:26:30 +0000",
+      "bred_cow": "2024-03-16 00:26:44 +0000"
     },
     "done": false
   },
@@ -1182,6 +1183,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-02-03 22:34:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-03-16 00:11:07 +0000"
     },
     "done": true
   },
