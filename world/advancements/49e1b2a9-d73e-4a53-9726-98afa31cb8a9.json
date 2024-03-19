@@ -843,6 +843,12 @@
     },
     "done": true
   },
+  "botania:main/functional_flower": {
+    "criteria": {
+      "code_triggered": "2024-03-19 07:54:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-02-04 13:20:35 +0000"
