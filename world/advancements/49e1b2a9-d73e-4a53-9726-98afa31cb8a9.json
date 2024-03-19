@@ -1336,6 +1336,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2024-03-19 17:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-02-04 13:20:35 +0000"
